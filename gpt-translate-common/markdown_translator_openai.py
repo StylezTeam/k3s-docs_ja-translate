@@ -16,16 +16,16 @@ os.environ['NO_PROXY'] = '*'
 current_dir = os.getcwd()
 
 # Define directory containing files to be translated
-SOURCE_DIR = os.path.abspath(current_dir + "/../fleet-docs/docs")
+SOURCE_DIR = os.path.abspath(current_dir + "/../k3s-docs_ja/docs")
 
 # Define directory for translated files
-TARGET_DIR = os.path.abspath(current_dir + "/../fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs")
+TARGET_DIR = os.path.abspath(current_dir + "/../k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/")
 
 # File to record translation execution date
 EXEC_DATE_FILE = "exec_date_translation.txt"
 
 # Debug flag
-DEBUG = True
+DEBUG = False
 
 # Logging configuration
 logging.basicConfig(filename='translator_en_to_ja.log', level=logging.INFO, 
