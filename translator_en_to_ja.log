@@ -1,0 +1,1290 @@
+2024-07-12 17:20:26 - INFO - Translation process started
+2024-07-12 17:20:26 - INFO - Translating: faq.md (new file)
+2024-07-12 17:20:26 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/faq.md
+2024-07-12 17:20:26 - INFO - Translating chunk 1/1...
+2024-07-12 17:20:26 - INFO - Translation started: ---
+title: FAQ
+---
+
+The FAQ is updated periodicall...
+2024-07-12 17:20:52 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:20:52 - INFO - Translation completed
+2024-07-12 17:20:52 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/faq.md
+2024-07-12 17:20:52 - INFO - Comparing Markdown elements:
+2024-07-12 17:20:52 - INFO - All elements match.
+-----
+2024-07-12 17:20:52 - INFO - Translating: advanced.md (new file)
+2024-07-12 17:20:52 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/advanced.md
+2024-07-12 17:20:52 - INFO - Translating chunk 1/3...
+2024-07-12 17:20:52 - INFO - Translation started: ---
+title: "Advanced Options / Configuration"
+---
+...
+2024-07-12 17:21:48 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:21:48 - INFO - Translation completed
+2024-07-12 17:21:48 - INFO - Translating chunk 2/3...
+2024-07-12 17:21:48 - INFO - Translation started:     `grep nvidia /var/lib/rancher/k3s/agent/etc/co...
+2024-07-12 17:23:00 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:23:00 - INFO - Translation completed
+2024-07-12 17:23:00 - INFO - Translating chunk 3/3...
+2024-07-12 17:23:01 - INFO - Translation started: <TabItem value="Automatic Installation" default>
+
+...
+2024-07-12 17:23:34 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:23:34 - INFO - Translation completed
+2024-07-12 17:23:34 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/advanced.md
+2024-07-12 17:23:34 - INFO - Comparing Markdown elements:
+2024-07-12 17:23:34 - WARNING - Emphasis: Mismatch (Source: 88, Translated: 87)
+2024-07-12 17:23:34 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 17:23:34 - INFO - Translating: known-issues.md (new file)
+2024-07-12 17:23:34 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/known-issues.md
+2024-07-12 17:23:34 - INFO - Translating chunk 1/1...
+2024-07-12 17:23:34 - INFO - Translation started: ---
+title: Known Issues
+---
+The Known Issues are u...
+2024-07-12 17:23:58 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:23:58 - INFO - Translation completed
+2024-07-12 17:23:58 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/known-issues.md
+2024-07-12 17:23:58 - INFO - Comparing Markdown elements:
+2024-07-12 17:23:58 - INFO - All elements match.
+-----
+2024-07-12 17:23:58 - INFO - Translating: helm.md (new file)
+2024-07-12 17:23:58 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/helm.md
+2024-07-12 17:23:58 - INFO - Translating chunk 1/1...
+2024-07-12 17:23:58 - INFO - Translation started: ---
+title: Helm
+---
+
+Helm is the package managemen...
+2024-07-12 17:24:36 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:24:37 - INFO - Translation completed
+2024-07-12 17:24:37 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/helm.md
+2024-07-12 17:24:37 - INFO - Comparing Markdown elements:
+2024-07-12 17:24:37 - INFO - All elements match.
+-----
+2024-07-12 17:24:37 - INFO - Translating: introduction.md (new file)
+2024-07-12 17:24:37 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/introduction.md
+2024-07-12 17:24:37 - INFO - Translating chunk 1/1...
+2024-07-12 17:24:37 - INFO - Translation started: ---
+slug: /
+title: "K3s - Lightweight Kubernetes"
+...
+2024-07-12 17:24:59 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:24:59 - INFO - Translation completed
+2024-07-12 17:24:59 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/introduction.md
+2024-07-12 17:24:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:24:59 - INFO - All elements match.
+-----
+2024-07-12 17:24:59 - INFO - Translating: related-projects.md (new file)
+2024-07-12 17:24:59 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/related-projects.md
+2024-07-12 17:24:59 - INFO - Translating chunk 1/1...
+2024-07-12 17:24:59 - INFO - Translation started: ---
+title: "Related Projects"
+---
+
+Projects implem...
+2024-07-12 17:25:07 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:25:07 - INFO - Translation completed
+2024-07-12 17:25:07 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/related-projects.md
+2024-07-12 17:25:07 - INFO - Comparing Markdown elements:
+2024-07-12 17:25:07 - INFO - All elements match.
+-----
+2024-07-12 17:25:07 - INFO - Translating: cluster-access.md (new file)
+2024-07-12 17:25:07 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cluster-access.md
+2024-07-12 17:25:07 - INFO - Translating chunk 1/1...
+2024-07-12 17:25:07 - INFO - Translation started: ---
+title: Cluster Access
+---
+
+The kubeconfig file...
+2024-07-12 17:25:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:25:15 - INFO - Translation completed
+2024-07-12 17:25:15 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cluster-access.md
+2024-07-12 17:25:15 - INFO - Comparing Markdown elements:
+2024-07-12 17:25:15 - INFO - All elements match.
+-----
+2024-07-12 17:25:15 - INFO - Translating: storage.md (new file)
+2024-07-12 17:25:15 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/storage.md
+2024-07-12 17:25:15 - INFO - Translating chunk 1/1...
+2024-07-12 17:25:15 - INFO - Translation started: ---
+title: "Volumes and Storage"
+---
+
+When deployi...
+2024-07-12 17:25:47 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:25:47 - INFO - Translation completed
+2024-07-12 17:25:47 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/storage.md
+2024-07-12 17:25:47 - INFO - Comparing Markdown elements:
+2024-07-12 17:25:47 - INFO - All elements match.
+-----
+2024-07-12 17:25:47 - INFO - Translating: architecture.md (new file)
+2024-07-12 17:25:47 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/architecture.md
+2024-07-12 17:25:47 - INFO - Translating chunk 1/1...
+2024-07-12 17:25:47 - INFO - Translation started: ---
+title: Architecture
+---
+
+import ThemedImage fr...
+2024-07-12 17:26:18 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:26:18 - INFO - Translation completed
+2024-07-12 17:26:18 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/architecture.md
+2024-07-12 17:26:18 - INFO - Comparing Markdown elements:
+2024-07-12 17:26:18 - INFO - All elements match.
+-----
+2024-07-12 17:26:18 - INFO - Translating: quick-start.md (new file)
+2024-07-12 17:26:18 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/quick-start.md
+2024-07-12 17:26:18 - INFO - Translating chunk 1/1...
+2024-07-12 17:26:18 - INFO - Translation started: ---
+title: "Quick-Start Guide"
+---
+
+This guide wil...
+2024-07-12 17:26:35 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:26:35 - INFO - Translation completed
+2024-07-12 17:26:35 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/quick-start.md
+2024-07-12 17:26:35 - INFO - Comparing Markdown elements:
+2024-07-12 17:26:35 - INFO - All elements match.
+-----
+2024-07-12 17:26:35 - INFO - Translating: upgrades/manual.md (new file)
+2024-07-12 17:26:35 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/upgrades/manual.md
+2024-07-12 17:26:35 - INFO - Translating chunk 1/1...
+2024-07-12 17:26:35 - INFO - Translation started: ---
+title: "Manual Upgrades"
+---
+
+You can upgrade ...
+2024-07-12 17:26:54 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:26:54 - INFO - Translation completed
+2024-07-12 17:26:54 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/upgrades/manual.md
+2024-07-12 17:26:54 - INFO - Comparing Markdown elements:
+2024-07-12 17:26:54 - INFO - All elements match.
+-----
+2024-07-12 17:26:54 - INFO - Translating: upgrades/upgrades.md (new file)
+2024-07-12 17:26:54 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/upgrades/upgrades.md
+2024-07-12 17:26:54 - INFO - Translating chunk 1/1...
+2024-07-12 17:26:54 - INFO - Translation started: ---
+title: "Upgrades"
+---
+
+### Upgrading your K3s ...
+2024-07-12 17:27:04 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:27:04 - INFO - Translation completed
+2024-07-12 17:27:04 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/upgrades/upgrades.md
+2024-07-12 17:27:04 - INFO - Comparing Markdown elements:
+2024-07-12 17:27:04 - INFO - All elements match.
+-----
+2024-07-12 17:27:04 - INFO - Translating: upgrades/automated.md (new file)
+2024-07-12 17:27:04 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/upgrades/automated.md
+2024-07-12 17:27:04 - INFO - Translating chunk 1/1...
+2024-07-12 17:27:04 - INFO - Translation started: ---
+title: "Automated Upgrades"
+---
+
+### Overview
+...
+2024-07-12 17:27:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:27:56 - INFO - Translation completed
+2024-07-12 17:27:56 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/upgrades/automated.md
+2024-07-12 17:27:56 - INFO - Comparing Markdown elements:
+2024-07-12 17:27:56 - INFO - All elements match.
+-----
+2024-07-12 17:27:56 - INFO - Translating: upgrades/killall.md (new file)
+2024-07-12 17:27:56 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/upgrades/killall.md
+2024-07-12 17:27:56 - INFO - Translating chunk 1/1...
+2024-07-12 17:27:56 - INFO - Translation started: ---
+title: Stopping K3s
+---
+
+
+To allow high availa...
+2024-07-12 17:28:07 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:28:07 - INFO - Translation completed
+2024-07-12 17:28:07 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/upgrades/killall.md
+2024-07-12 17:28:07 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:07 - INFO - All elements match.
+-----
+2024-07-12 17:28:07 - INFO - Translating: reference/env-variables.md (new file)
+2024-07-12 17:28:07 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/reference/env-variables.md
+2024-07-12 17:28:07 - INFO - Translating chunk 1/1...
+2024-07-12 17:28:07 - INFO - Translation started: ---
+title: Environment Variables
+---
+
+As mentioned...
+2024-07-12 17:28:59 - INFO - Translation process started
+2024-07-12 17:28:59 - INFO - Skipping: faq.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: advanced.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - WARNING - Emphasis: Mismatch (Source: 88, Translated: 87)
+2024-07-12 17:28:59 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 17:28:59 - INFO - Skipping: known-issues.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: helm.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: introduction.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: related-projects.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: cluster-access.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: storage.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: architecture.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: quick-start.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: upgrades/manual.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: upgrades/upgrades.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: upgrades/automated.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Skipping: upgrades/killall.md (no changes)
+2024-07-12 17:28:59 - INFO - Comparing Markdown elements:
+2024-07-12 17:28:59 - INFO - All elements match.
+-----
+2024-07-12 17:28:59 - INFO - Translating: reference/env-variables.md (new file)
+2024-07-12 17:28:59 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/reference/env-variables.md
+2024-07-12 17:28:59 - INFO - Translating chunk 1/1...
+2024-07-12 17:28:59 - INFO - Translation started: ---
+title: Environment Variables
+---
+
+As mentioned...
+2024-07-12 17:29:19 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:29:19 - INFO - Translation completed
+2024-07-12 17:29:19 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/reference/env-variables.md
+2024-07-12 17:29:19 - INFO - Comparing Markdown elements:
+2024-07-12 17:29:19 - INFO - All elements match.
+-----
+2024-07-12 17:29:19 - INFO - Translating: reference/flag-deprecation.md (new file)
+2024-07-12 17:29:19 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/reference/flag-deprecation.md
+2024-07-12 17:29:19 - INFO - Translating chunk 1/1...
+2024-07-12 17:29:19 - INFO - Translation started: ---
+title: "Flag Deprecation"
+---
+
+K3s is a fast-m...
+2024-07-12 17:29:52 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:29:52 - INFO - Translation completed
+2024-07-12 17:29:52 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/reference/flag-deprecation.md
+2024-07-12 17:29:52 - INFO - Comparing Markdown elements:
+2024-07-12 17:29:52 - INFO - All elements match.
+-----
+2024-07-12 17:29:52 - INFO - Translating: reference/resource-profiling.md (new file)
+2024-07-12 17:29:52 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/reference/resource-profiling.md
+2024-07-12 17:29:52 - INFO - Translating chunk 1/1...
+2024-07-12 17:29:52 - INFO - Translation started: ---
+title: Resource Profiling
+---
+
+This section ca...
+2024-07-12 17:30:43 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:30:43 - INFO - Translation completed
+2024-07-12 17:30:43 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/reference/resource-profiling.md
+2024-07-12 17:30:43 - INFO - Comparing Markdown elements:
+2024-07-12 17:30:43 - INFO - All elements match.
+-----
+2024-07-12 17:30:43 - INFO - Translating: networking/distributed-multicloud.md (new file)
+2024-07-12 17:30:43 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/networking/distributed-multicloud.md
+2024-07-12 17:30:43 - INFO - Translating chunk 1/1...
+2024-07-12 17:30:43 - INFO - Translation started: ---
+title: "Distributed hybrid or multicloud clust...
+2024-07-12 17:31:05 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:31:05 - INFO - Translation completed
+2024-07-12 17:31:05 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/networking/distributed-multicloud.md
+2024-07-12 17:31:05 - INFO - Comparing Markdown elements:
+2024-07-12 17:31:05 - INFO - All elements match.
+-----
+2024-07-12 17:31:05 - INFO - Translating: networking/networking-services.md (new file)
+2024-07-12 17:31:05 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/networking/networking-services.md
+2024-07-12 17:31:05 - INFO - Translating chunk 1/1...
+2024-07-12 17:31:05 - INFO - Translation started: ---
+title: "Networking Services"
+---
+
+This page ex...
+2024-07-12 17:31:55 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:31:55 - INFO - Translation completed
+2024-07-12 17:31:55 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/networking/networking-services.md
+2024-07-12 17:31:55 - INFO - Comparing Markdown elements:
+2024-07-12 17:31:55 - INFO - All elements match.
+-----
+2024-07-12 17:31:55 - INFO - Translating: networking/multus-ipams.md (new file)
+2024-07-12 17:31:55 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/networking/multus-ipams.md
+2024-07-12 17:31:55 - INFO - Translating chunk 1/1...
+2024-07-12 17:31:55 - INFO - Translation started: ---
+title: "Multus and IPAM plugins"
+---
+
+[Multus ...
+2024-07-12 17:32:17 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:32:17 - INFO - Translation completed
+2024-07-12 17:32:17 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/networking/multus-ipams.md
+2024-07-12 17:32:17 - INFO - Comparing Markdown elements:
+2024-07-12 17:32:17 - INFO - All elements match.
+-----
+2024-07-12 17:32:17 - INFO - Translating: networking/networking.md (new file)
+2024-07-12 17:32:17 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/networking/networking.md
+2024-07-12 17:32:17 - INFO - Translating chunk 1/1...
+2024-07-12 17:32:17 - INFO - Translation started: ---
+title: "Networking"
+---
+
+This section contains...
+2024-07-12 17:32:21 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:32:21 - INFO - Translation completed
+2024-07-12 17:32:21 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/networking/networking.md
+2024-07-12 17:32:21 - INFO - Comparing Markdown elements:
+2024-07-12 17:32:21 - INFO - All elements match.
+-----
+2024-07-12 17:32:21 - INFO - Translating: networking/basic-network-options.md (new file)
+2024-07-12 17:32:21 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/networking/basic-network-options.md
+2024-07-12 17:32:21 - INFO - Translating chunk 1/2...
+2024-07-12 17:32:21 - INFO - Translation started: ---
+title: "Basic Network Options"
+---
+
+This page ...
+2024-07-12 17:33:13 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:33:14 - INFO - Translation completed
+2024-07-12 17:33:14 - INFO - Translating chunk 2/2...
+2024-07-12 17:33:14 - INFO - Translation started: When defining cluster-cidr and service-cidr with I...
+2024-07-12 17:33:23 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:33:23 - INFO - Translation completed
+2024-07-12 17:33:23 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/networking/basic-network-options.md
+2024-07-12 17:33:23 - INFO - Comparing Markdown elements:
+2024-07-12 17:33:23 - INFO - All elements match.
+-----
+2024-07-12 17:33:23 - INFO - Translating: installation/server-roles.md (new file)
+2024-07-12 17:33:23 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/server-roles.md
+2024-07-12 17:33:23 - INFO - Translating chunk 1/1...
+2024-07-12 17:33:23 - INFO - Translation started: ---
+title: "Managing Server Roles"
+---
+
+Starting t...
+2024-07-12 17:33:46 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:33:46 - INFO - Translation completed
+2024-07-12 17:33:46 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/server-roles.md
+2024-07-12 17:33:46 - INFO - Comparing Markdown elements:
+2024-07-12 17:33:46 - INFO - All elements match.
+-----
+2024-07-12 17:33:46 - INFO - Translating: installation/requirements.md (new file)
+2024-07-12 17:33:46 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/requirements.md
+2024-07-12 17:33:46 - INFO - Translating chunk 1/1...
+2024-07-12 17:33:46 - INFO - Translation started: ---
+title: Requirements
+---
+
+K3s is very lightweig...
+2024-07-12 17:35:27 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:35:27 - INFO - Translation completed
+2024-07-12 17:35:27 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/requirements.md
+2024-07-12 17:35:27 - INFO - Comparing Markdown elements:
+2024-07-12 17:35:27 - INFO - All elements match.
+-----
+2024-07-12 17:35:27 - INFO - Translating: installation/installation.md (new file)
+2024-07-12 17:35:27 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/installation.md
+2024-07-12 17:35:27 - INFO - Translating chunk 1/1...
+2024-07-12 17:35:27 - INFO - Translation started: ---
+title: "Installation"
+---
+
+This section contai...
+2024-07-12 17:35:35 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:35:35 - INFO - Translation completed
+2024-07-12 17:35:35 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/installation.md
+2024-07-12 17:35:35 - INFO - Comparing Markdown elements:
+2024-07-12 17:35:35 - INFO - All elements match.
+-----
+2024-07-12 17:35:35 - INFO - Translating: installation/uninstall.md (new file)
+2024-07-12 17:35:35 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/uninstall.md
+2024-07-12 17:35:35 - INFO - Translating chunk 1/1...
+2024-07-12 17:35:35 - INFO - Translation started: ---
+title: Uninstalling K3s
+---
+
+:::warning
+Uninst...
+2024-07-12 17:35:41 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:35:41 - INFO - Translation completed
+2024-07-12 17:35:41 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/uninstall.md
+2024-07-12 17:35:41 - INFO - Comparing Markdown elements:
+2024-07-12 17:35:41 - INFO - All elements match.
+-----
+2024-07-12 17:35:41 - INFO - Translating: installation/registry-mirror.md (new file)
+2024-07-12 17:35:41 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/registry-mirror.md
+2024-07-12 17:35:41 - INFO - Translating chunk 1/1...
+2024-07-12 17:35:41 - INFO - Translation started: ---
+title: "Embedded Registry Mirror"
+---
+
+:::info...
+2024-07-12 17:36:34 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:36:35 - INFO - Translation completed
+2024-07-12 17:36:35 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/registry-mirror.md
+2024-07-12 17:36:35 - INFO - Comparing Markdown elements:
+2024-07-12 17:36:35 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 28)
+2024-07-12 17:36:35 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 17:36:35 - INFO - Translating: installation/configuration.md (new file)
+2024-07-12 17:36:35 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/configuration.md
+2024-07-12 17:36:35 - INFO - Translating chunk 1/1...
+2024-07-12 17:36:35 - INFO - Translation started: ---
+title: "Configuration Options"
+---
+
+This page ...
+2024-07-12 17:37:31 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:37:31 - INFO - Translation completed
+2024-07-12 17:37:31 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/configuration.md
+2024-07-12 17:37:31 - INFO - Comparing Markdown elements:
+2024-07-12 17:37:31 - INFO - All elements match.
+-----
+2024-07-12 17:37:31 - INFO - Translating: installation/packaged-components.md (new file)
+2024-07-12 17:37:31 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/packaged-components.md
+2024-07-12 17:37:31 - INFO - Translating chunk 1/1...
+2024-07-12 17:37:31 - INFO - Translation started: ---
+title: "Managing Packaged Components"
+---
+
+## ...
+2024-07-12 17:38:02 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:38:02 - INFO - Translation completed
+2024-07-12 17:38:02 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/packaged-components.md
+2024-07-12 17:38:02 - INFO - Comparing Markdown elements:
+2024-07-12 17:38:02 - INFO - All elements match.
+-----
+2024-07-12 17:38:02 - INFO - Translating: installation/private-registry.md (new file)
+2024-07-12 17:38:02 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/private-registry.md
+2024-07-12 17:38:02 - INFO - Translating chunk 1/2...
+2024-07-12 17:38:02 - INFO - Translation started: ---
+title: "Private Registry Configuration"
+---
+
+C...
+2024-07-12 17:38:51 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:38:52 - INFO - Translation completed
+2024-07-12 17:38:52 - INFO - Translating chunk 2/2...
+2024-07-12 17:38:52 - INFO - Translation started:    Example: `docker tag docker.io/rancher/mirrored...
+2024-07-12 17:38:54 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:38:54 - INFO - Translation completed
+2024-07-12 17:38:54 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/private-registry.md
+2024-07-12 17:38:54 - INFO - Comparing Markdown elements:
+2024-07-12 17:38:54 - WARNING - Emphasis: Mismatch (Source: 48, Translated: 49)
+2024-07-12 17:38:54 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 17:38:54 - INFO - Translating: installation/airgap.md (new file)
+2024-07-12 17:38:54 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/installation/airgap.md
+2024-07-12 17:38:54 - INFO - Translating chunk 1/1...
+2024-07-12 17:38:54 - INFO - Translation started: ---
+title: "Air-Gap Install"
+---
+
+You can install ...
+2024-07-12 17:39:52 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:39:52 - INFO - Translation completed
+2024-07-12 17:39:52 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/installation/airgap.md
+2024-07-12 17:39:52 - INFO - Comparing Markdown elements:
+2024-07-12 17:39:52 - WARNING - Emphasis: Mismatch (Source: 16, Translated: 15)
+2024-07-12 17:39:52 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 17:39:52 - INFO - Translating: security/self-assessment-1.23.md (new file)
+2024-07-12 17:39:52 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/self-assessment-1.23.md
+2024-07-12 17:39:52 - INFO - Translating chunk 1/16...
+2024-07-12 17:39:52 - INFO - Translation started: ---
+title: CIS 1.23 Self Assessment Guide
+---
+
+## ...
+2024-07-12 17:40:59 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:40:59 - INFO - Translation completed
+2024-07-12 17:40:59 - INFO - Translating chunk 2/16...
+2024-07-12 17:40:59 - INFO - Translation started: For example, `chown root:root scheduler`
+
+**Audit:...
+2024-07-12 17:42:08 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:42:08 - INFO - Translation completed
+2024-07-12 17:42:08 - INFO - Translating chunk 3/16...
+2024-07-12 17:42:08 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:43:01 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:43:02 - INFO - Translation completed
+2024-07-12 17:43:02 - INFO - Translating chunk 4/16...
+2024-07-12 17:43:02 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:43:47 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:43:47 - INFO - Translation completed
+2024-07-12 17:43:47 - INFO - Translating chunk 5/16...
+2024-07-12 17:43:47 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:44:26 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:44:26 - INFO - Translation completed
+2024-07-12 17:44:26 - INFO - Translating chunk 6/16...
+2024-07-12 17:44:26 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:45:09 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:45:10 - INFO - Translation completed
+2024-07-12 17:45:10 - INFO - Translating chunk 7/16...
+2024-07-12 17:45:10 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:46:24 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:46:24 - INFO - Translation completed
+2024-07-12 17:46:24 - INFO - Translating chunk 8/16...
+2024-07-12 17:46:25 - INFO - Translation started: **Audit Script:** `check_for_k3s_etcd.sh`
+
+```bash...
+2024-07-12 17:47:09 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:47:09 - INFO - Translation completed
+2024-07-12 17:47:09 - INFO - Translating chunk 9/16...
+2024-07-12 17:47:09 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:48:33 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:48:33 - INFO - Translation completed
+2024-07-12 17:48:33 - INFO - Translating chunk 10/16...
+2024-07-12 17:48:33 - INFO - Translation started: Sep 13 13:26:40 k3s-123-cis-pool3-b403f678-bzdg5 k...
+2024-07-12 17:49:51 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:49:51 - INFO - Translation completed
+2024-07-12 17:49:51 - INFO - Translating chunk 11/16...
+2024-07-12 17:49:51 - INFO - Translation started:             echo $(grep -A 5 'client-transport-sec...
+2024-07-12 17:51:06 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:51:06 - INFO - Translation completed
+2024-07-12 17:51:06 - INFO - Translating chunk 12/16...
+2024-07-12 17:51:06 - INFO - Translation started:             echo "cert-file AND key-file";;
+      ...
+2024-07-12 17:52:01 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:52:01 - INFO - Translation completed
+2024-07-12 17:52:01 - INFO - Translating chunk 13/16...
+2024-07-12 17:52:01 - INFO - Translation started: - Access to Secrets managed by the cluster. Care s...
+2024-07-12 17:52:58 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:52:58 - INFO - Translation completed
+2024-07-12 17:52:58 - INFO - Translating chunk 14/16...
+2024-07-12 17:52:58 - INFO - Translation started: --authorization-mode=Webhook Sep 13 13:26:40 k3s-1...
+2024-07-12 17:53:47 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:53:47 - INFO - Translation completed
+2024-07-12 17:53:47 - INFO - Translating chunk 15/16...
+2024-07-12 17:53:47 - INFO - Translation started: If using a Kubelet config file, edit the file to s...
+2024-07-12 17:54:46 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:54:46 - INFO - Translation completed
+2024-07-12 17:54:46 - INFO - Translating chunk 16/16...
+2024-07-12 17:54:46 - INFO - Translation started: **Result:** warn
+
+**Remediation:**
+Add policies to...
+2024-07-12 17:55:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:55:15 - INFO - Translation completed
+2024-07-12 17:55:15 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/self-assessment-1.23.md
+2024-07-12 17:55:15 - INFO - Comparing Markdown elements:
+2024-07-12 17:55:15 - WARNING - Code blocks: Mismatch (Source: 372, Translated: 450)
+2024-07-12 17:55:15 - WARNING - Horizontal rules: Mismatch (Source: 1, Translated: 2)
+2024-07-12 17:55:15 - WARNING - H1: Mismatch (Source: 27, Translated: 25)
+2024-07-12 17:55:15 - WARNING - H2: Mismatch (Source: 16, Translated: 17)
+2024-07-12 17:55:15 - WARNING - H3: Mismatch (Source: 125, Translated: 132)
+2024-07-12 17:55:15 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 123)
+2024-07-12 17:55:15 - WARNING - Bold: Mismatch (Source: 432, Translated: 461)
+2024-07-12 17:55:15 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 17:55:15 - INFO - Translating: security/self-assessment-1.24.md (new file)
+2024-07-12 17:55:15 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/self-assessment-1.24.md
+2024-07-12 17:55:15 - INFO - Translating chunk 1/14...
+2024-07-12 17:55:15 - INFO - Translation started: ---
+title: CIS 1.24 Self Assessment Guide
+---
+
+## ...
+2024-07-12 17:56:06 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:56:06 - INFO - Translation completed
+2024-07-12 17:56:06 - INFO - Translating chunk 2/14...
+2024-07-12 17:56:06 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 17:56:45 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:56:45 - INFO - Translation completed
+2024-07-12 17:56:45 - INFO - Translating chunk 3/14...
+2024-07-12 17:56:45 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 17:57:55 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:57:56 - INFO - Translation completed
+2024-07-12 17:57:56 - INFO - Translating chunk 4/14...
+2024-07-12 17:57:56 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 17:58:51 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:58:51 - INFO - Translation completed
+2024-07-12 17:58:51 - INFO - Translating chunk 5/14...
+2024-07-12 17:58:51 - INFO - Translation started: ### 1.2.14 Ensure that the admission control plugi...
+2024-07-12 17:59:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 17:59:38 - INFO - Translation completed
+2024-07-12 17:59:38 - INFO - Translating chunk 6/14...
+2024-07-12 17:59:38 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 18:00:08 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:00:08 - INFO - Translation completed
+2024-07-12 18:00:08 - INFO - Translating chunk 7/14...
+2024-07-12 18:00:08 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 18:00:55 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:00:56 - INFO - Translation completed
+2024-07-12 18:00:56 - INFO - Translating chunk 8/14...
+2024-07-12 18:00:56 - INFO - Translation started: journalctl -D /var/log/journal  -u k3s | grep 'Run...
+2024-07-12 18:01:40 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:01:40 - INFO - Translation completed
+2024-07-12 18:01:40 - INFO - Translating chunk 9/14...
+2024-07-12 18:01:40 - INFO - Translation started: **Expected Result:** '--tls-cipher-suites' contain...
+2024-07-12 18:02:41 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:02:41 - INFO - Translation completed
+2024-07-12 18:02:41 - INFO - Translating chunk 10/14...
+2024-07-12 18:02:41 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 18:03:42 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:03:42 - INFO - Translation completed
+2024-07-12 18:03:42 - INFO - Translating chunk 11/14...
+2024-07-12 18:03:42 - INFO - Translation started: chown root:root /etc/systemd/system/kubelet.servic...
+2024-07-12 18:05:01 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:05:01 - INFO - Translation completed
+2024-07-12 18:05:01 - INFO - Translating chunk 12/14...
+2024-07-12 18:05:01 - INFO - Translation started: May 15 18:38:23 server-0 k3s[2318]: time="2024-05-...
+2024-07-12 18:05:49 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:05:49 - INFO - Translation completed
+2024-07-12 18:05:49 - INFO - Translating chunk 13/14...
+2024-07-12 18:05:49 - INFO - Translation started: </details>
+
+### 4.2.11 Ensure that the --rotate-ce...
+2024-07-12 18:06:48 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:06:48 - INFO - Translation completed
+2024-07-12 18:06:48 - INFO - Translating chunk 14/14...
+2024-07-12 18:06:48 - INFO - Translation started: ### 5.7.1 Create administrative boundaries between...
+2024-07-12 18:06:54 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:06:54 - INFO - Translation completed
+2024-07-12 18:06:54 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/self-assessment-1.24.md
+2024-07-12 18:06:54 - INFO - Comparing Markdown elements:
+2024-07-12 18:06:54 - WARNING - Code blocks: Mismatch (Source: 220, Translated: 242)
+2024-07-12 18:06:54 - WARNING - Emphasis: Mismatch (Source: 22, Translated: 23)
+2024-07-12 18:06:54 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:06:54 - INFO - Translating: security/hardening-guide.md (new file)
+2024-07-12 18:06:54 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/hardening-guide.md
+2024-07-12 18:06:54 - INFO - Translating chunk 1/4...
+2024-07-12 18:06:54 - INFO - Translation started: ---
+title: "CIS Hardening Guide"
+---
+
+This documen...
+2024-07-12 18:07:40 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:07:40 - INFO - Translation completed
+2024-07-12 18:07:40 - INFO - Translating chunk 2/4...
+2024-07-12 18:07:40 - INFO - Translation started: > **Note:** The Kubernetes critical additions such...
+2024-07-12 18:08:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:08:39 - INFO - Translation completed
+2024-07-12 18:08:39 - INFO - Translating chunk 3/4...
+2024-07-12 18:08:39 - INFO - Translation started:     --service-account-private-key-file=/var/lib/ra...
+2024-07-12 18:09:45 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:09:46 - INFO - Translation completed
+2024-07-12 18:09:46 - INFO - Translating chunk 4/4...
+2024-07-12 18:09:46 - INFO - Translation started: <summary>Rationale</summary>
+Kubelets can automati...
+2024-07-12 18:09:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:09:56 - INFO - Translation completed
+2024-07-12 18:09:56 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/hardening-guide.md
+2024-07-12 18:09:56 - INFO - Comparing Markdown elements:
+2024-07-12 18:09:56 - WARNING - Code blocks: Mismatch (Source: 42, Translated: 45)
+2024-07-12 18:09:56 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 65)
+2024-07-12 18:09:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:09:56 - INFO - Translating: security/self-assessment-1.8.md (new file)
+2024-07-12 18:09:56 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/self-assessment-1.8.md
+2024-07-12 18:09:56 - INFO - Translating chunk 1/13...
+2024-07-12 18:09:56 - INFO - Translation started: ---
+title: CIS 1.8 Self Assessment Guide
+---
+
+## O...
+2024-07-12 18:11:42 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:11:42 - INFO - Translation completed
+2024-07-12 18:11:42 - INFO - Translating chunk 2/13...
+2024-07-12 18:11:42 - INFO - Translation started: ### 1.2.1 Ensure that the --anonymous-auth argumen...
+2024-07-12 18:12:30 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:12:30 - INFO - Translation completed
+2024-07-12 18:12:30 - INFO - Translating chunk 3/13...
+2024-07-12 18:12:30 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:13:20 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:13:21 - INFO - Translation completed
+2024-07-12 18:13:21 - INFO - Translating chunk 4/13...
+2024-07-12 18:13:21 - INFO - Translation started: **Expected Result:** '--authorization-mode' has 'R...
+2024-07-12 18:14:10 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:14:10 - INFO - Translation completed
+2024-07-12 18:14:10 - INFO - Translating chunk 5/13...
+2024-07-12 18:14:10 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:14:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:14:56 - INFO - Translation completed
+2024-07-12 18:14:56 - INFO - Translating chunk 6/13...
+2024-07-12 18:14:56 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:15:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:15:38 - INFO - Translation completed
+2024-07-12 18:15:38 - INFO - Translating chunk 7/13...
+2024-07-12 18:15:38 - INFO - Translation started: --admission-control-config-file=/var/lib/rancher/k...
+2024-07-12 18:16:48 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:16:48 - INFO - Translation completed
+2024-07-12 18:16:48 - INFO - Translating chunk 8/13...
+2024-07-12 18:16:48 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:17:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:17:38 - INFO - Translation completed
+2024-07-12 18:17:38 - INFO - Translating chunk 9/13...
+2024-07-12 18:17:38 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:18:36 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:18:36 - INFO - Translation completed
+2024-07-12 18:18:36 - INFO - Translating chunk 10/13...
+2024-07-12 18:18:36 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:19:26 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:19:26 - INFO - Translation completed
+2024-07-12 18:19:26 - INFO - Translating chunk 11/13...
+2024-07-12 18:19:26 - INFO - Translation started: Apr 22 20:12:19 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:20:17 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:20:17 - INFO - Translation completed
+2024-07-12 18:20:17 - INFO - Translating chunk 12/13...
+2024-07-12 18:20:17 - INFO - Translation started: Apr 22 20:12:21 server-0 k3s[2397]: time="2024-04-...
+2024-07-12 18:21:13 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:21:13 - INFO - Translation completed
+2024-07-12 18:21:13 - INFO - Translating chunk 13/13...
+2024-07-12 18:21:13 - INFO - Translation started: Decide on an appropriate level for this parameter ...
+2024-07-12 18:21:53 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:21:53 - INFO - Translation completed
+2024-07-12 18:21:53 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/self-assessment-1.8.md
+2024-07-12 18:21:53 - INFO - Comparing Markdown elements:
+2024-07-12 18:21:53 - WARNING - Code blocks: Mismatch (Source: 228, Translated: 248)
+2024-07-12 18:21:53 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:21:53 - INFO - Translating: security/self-assessment-1.7.md (new file)
+2024-07-12 18:21:53 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/self-assessment-1.7.md
+2024-07-12 18:21:53 - INFO - Translating chunk 1/13...
+2024-07-12 18:21:53 - INFO - Translation started: ---
+title: CIS 1.7 Self Assessment Guide
+---
+
+## O...
+2024-07-12 18:22:48 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:22:48 - INFO - Translation completed
+2024-07-12 18:22:48 - INFO - Translating chunk 2/13...
+2024-07-12 18:22:48 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:23:41 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:23:41 - INFO - Translation completed
+2024-07-12 18:23:41 - INFO - Translating chunk 3/13...
+2024-07-12 18:23:41 - INFO - Translation started: --kubelet-certificate-authority parameter to the p...
+2024-07-12 18:24:27 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:24:27 - INFO - Translation completed
+2024-07-12 18:24:27 - INFO - Translating chunk 4/13...
+2024-07-12 18:24:27 - INFO - Translation started: ### 1.2.10 Ensure that the admission control plugi...
+2024-07-12 18:25:09 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:25:09 - INFO - Translation completed
+2024-07-12 18:25:09 - INFO - Translating chunk 5/13...
+2024-07-12 18:25:09 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:25:57 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:25:57 - INFO - Translation completed
+2024-07-12 18:25:57 - INFO - Translating chunk 6/13...
+2024-07-12 18:25:57 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:26:45 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:26:45 - INFO - Translation completed
+2024-07-12 18:26:45 - INFO - Translating chunk 7/13...
+2024-07-12 18:26:45 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:27:32 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:27:33 - INFO - Translation completed
+2024-07-12 18:27:33 - INFO - Translating chunk 8/13...
+2024-07-12 18:27:33 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:28:19 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:28:19 - INFO - Translation completed
+2024-07-12 18:28:19 - INFO - Translating chunk 9/13...
+2024-07-12 18:28:19 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:29:19 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:29:19 - INFO - Translation completed
+2024-07-12 18:29:19 - INFO - Translating chunk 10/13...
+2024-07-12 18:29:19 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:30:10 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:30:10 - INFO - Translation completed
+2024-07-12 18:30:10 - INFO - Translating chunk 11/13...
+2024-07-12 18:30:10 - INFO - Translation started: May 15 17:22:25 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:30:59 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:30:59 - INFO - Translation completed
+2024-07-12 18:30:59 - INFO - Translating chunk 12/13...
+2024-07-12 18:30:59 - INFO - Translation started: May 15 17:22:27 server-0 k3s[2317]: time="2024-05-...
+2024-07-12 18:32:05 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:32:05 - INFO - Translation completed
+2024-07-12 18:32:05 - INFO - Translating chunk 13/13...
+2024-07-12 18:32:05 - INFO - Translation started: **Result:** WARN
+
+**Remediation:**
+Where possible,...
+2024-07-12 18:33:02 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:33:02 - INFO - Translation completed
+2024-07-12 18:33:02 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/self-assessment-1.7.md
+2024-07-12 18:33:02 - INFO - Comparing Markdown elements:
+2024-07-12 18:33:02 - WARNING - Code blocks: Mismatch (Source: 200, Translated: 224)
+2024-07-12 18:33:02 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 36)
+2024-07-12 18:33:02 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:33:02 - INFO - Translating: security/secrets-encryption.md (new file)
+2024-07-12 18:33:02 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/secrets-encryption.md
+2024-07-12 18:33:02 - INFO - Translating chunk 1/1...
+2024-07-12 18:33:02 - INFO - Translation started: ---
+title: Secrets Encryption
+---
+
+# Secrets Encry...
+2024-07-12 18:33:14 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:33:14 - INFO - Translation completed
+2024-07-12 18:33:14 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/secrets-encryption.md
+2024-07-12 18:33:14 - INFO - Comparing Markdown elements:
+2024-07-12 18:33:14 - INFO - All elements match.
+-----
+2024-07-12 18:33:14 - INFO - Translating: security/security.md (new file)
+2024-07-12 18:33:14 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/security/security.md
+2024-07-12 18:33:14 - INFO - Translating chunk 1/1...
+2024-07-12 18:33:14 - INFO - Translation started: ---
+title: "Security"
+---
+
+This section describes ...
+2024-07-12 18:33:23 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:33:23 - INFO - Translation completed
+2024-07-12 18:33:23 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/security/security.md
+2024-07-12 18:33:23 - INFO - Comparing Markdown elements:
+2024-07-12 18:33:23 - INFO - All elements match.
+-----
+2024-07-12 18:33:23 - INFO - Translating: cli/cli.md (new file)
+2024-07-12 18:33:23 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/cli.md
+2024-07-12 18:33:23 - INFO - Translating chunk 1/1...
+2024-07-12 18:33:23 - INFO - Translation started: ---
+title: CLI Tools
+---
+
+The K3s binary contains ...
+2024-07-12 18:33:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:33:37 - INFO - Translation completed
+2024-07-12 18:33:37 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/cli.md
+2024-07-12 18:33:37 - INFO - Comparing Markdown elements:
+2024-07-12 18:33:37 - INFO - All elements match.
+-----
+2024-07-12 18:33:37 - INFO - Translating: cli/certificate.md (new file)
+2024-07-12 18:33:37 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/certificate.md
+2024-07-12 18:33:37 - INFO - Translating chunk 1/2...
+2024-07-12 18:33:37 - INFO - Translation started: ---
+title: certificate
+---
+
+# k3s certificate
+
+## ...
+2024-07-12 18:34:33 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:34:34 - INFO - Translation completed
+2024-07-12 18:34:34 - INFO - Translating chunk 2/2...
+2024-07-12 18:34:34 - INFO - Translation started: If the cluster has been started with default self-...
+2024-07-12 18:35:24 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:35:24 - INFO - Translation completed
+2024-07-12 18:35:24 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/certificate.md
+2024-07-12 18:35:24 - INFO - Comparing Markdown elements:
+2024-07-12 18:35:24 - WARNING - Emphasis: Mismatch (Source: 50, Translated: 49)
+2024-07-12 18:35:24 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:35:24 - INFO - Translating: cli/token.md (new file)
+2024-07-12 18:35:24 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/token.md
+2024-07-12 18:35:24 - INFO - Translating chunk 1/1...
+2024-07-12 18:35:24 - INFO - Translation started: ---
+title: token
+---
+
+# k3s token
+
+K3s uses tokens...
+2024-07-12 18:36:24 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:36:25 - INFO - Translation completed
+2024-07-12 18:36:25 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/token.md
+2024-07-12 18:36:25 - INFO - Comparing Markdown elements:
+2024-07-12 18:36:25 - INFO - All elements match.
+-----
+2024-07-12 18:36:25 - INFO - Translating: cli/secrets-encrypt.md (new file)
+2024-07-12 18:36:25 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/secrets-encrypt.md
+2024-07-12 18:36:25 - INFO - Translating chunk 1/1...
+2024-07-12 18:36:25 - INFO - Translation started: ---
+title: secrets-encrypt
+---
+
+# k3s secrets-encr...
+2024-07-12 18:37:22 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:37:22 - INFO - Translation completed
+2024-07-12 18:37:22 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/secrets-encrypt.md
+2024-07-12 18:37:22 - INFO - Comparing Markdown elements:
+2024-07-12 18:37:22 - INFO - All elements match.
+-----
+2024-07-12 18:37:22 - INFO - Translating: cli/agent.md (new file)
+2024-07-12 18:37:22 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/agent.md
+2024-07-12 18:37:22 - INFO - Translating chunk 1/2...
+2024-07-12 18:37:22 - INFO - Translation started: ---
+title: agent
+---
+
+# k3s agent
+
+In this section...
+2024-07-12 18:38:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:38:15 - INFO - Translation completed
+2024-07-12 18:38:15 - INFO - Translating chunk 2/2...
+2024-07-12 18:38:15 - INFO - Translation started:    --node-external-ip value                   (age...
+2024-07-12 18:38:21 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:38:21 - INFO - Translation completed
+2024-07-12 18:38:21 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/agent.md
+2024-07-12 18:38:21 - INFO - Comparing Markdown elements:
+2024-07-12 18:38:21 - WARNING - Code blocks: Mismatch (Source: 4, Translated: 6)
+2024-07-12 18:38:21 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:38:21 - INFO - Translating: cli/etcd-snapshot.md (new file)
+2024-07-12 18:38:21 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/etcd-snapshot.md
+2024-07-12 18:38:21 - INFO - Translating chunk 1/1...
+2024-07-12 18:38:21 - INFO - Translation started: ---
+title: etcd-snapshot
+---
+
+# k3s etcd-snapshot
+...
+2024-07-12 18:39:02 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:39:02 - INFO - Translation completed
+2024-07-12 18:39:02 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/etcd-snapshot.md
+2024-07-12 18:39:02 - INFO - Comparing Markdown elements:
+2024-07-12 18:39:02 - WARNING - Emphasis: Mismatch (Source: 40, Translated: 46)
+2024-07-12 18:39:02 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:39:02 - INFO - Translating: cli/server.md (new file)
+2024-07-12 18:39:02 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/cli/server.md
+2024-07-12 18:39:02 - INFO - Translating chunk 1/3...
+2024-07-12 18:39:02 - INFO - Translation started: ---
+title: server
+---
+
+# k3s server
+
+In this secti...
+2024-07-12 18:39:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:39:56 - INFO - Translation completed
+2024-07-12 18:39:56 - INFO - Translating chunk 2/3...
+2024-07-12 18:39:56 - INFO - Translation started: | `--cluster-cidr` value            | "10.42.0.0/1...
+2024-07-12 18:40:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:40:37 - INFO - Translation completed
+2024-07-12 18:40:37 - INFO - Translating chunk 3/3...
+2024-07-12 18:40:37 - INFO - Translation started:    --agent-token value                        (clu...
+2024-07-12 18:41:11 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:41:11 - INFO - Translation completed
+2024-07-12 18:41:11 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/cli/server.md
+2024-07-12 18:41:11 - INFO - Comparing Markdown elements:
+2024-07-12 18:41:11 - WARNING - Code blocks: Mismatch (Source: 2, Translated: 4)
+2024-07-12 18:41:11 - WARNING - Emphasis: Mismatch (Source: 120, Translated: 123)
+2024-07-12 18:41:11 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:41:11 - INFO - Translating: datastore/datastore.md (new file)
+2024-07-12 18:41:11 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/datastore/datastore.md
+2024-07-12 18:41:11 - INFO - Translating chunk 1/1...
+2024-07-12 18:41:11 - INFO - Translation started: ---
+title: "Cluster Datastore"
+---
+
+
+The ability t...
+2024-07-12 18:41:46 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:41:46 - INFO - Translation completed
+2024-07-12 18:41:46 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/datastore/datastore.md
+2024-07-12 18:41:46 - INFO - Comparing Markdown elements:
+2024-07-12 18:41:46 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-12 18:41:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:41:46 - INFO - Translating: datastore/ha.md (new file)
+2024-07-12 18:41:46 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/datastore/ha.md
+2024-07-12 18:41:46 - INFO - Translating chunk 1/1...
+2024-07-12 18:41:46 - INFO - Translation started: ---
+title: High Availability External DB
+---
+
+This...
+2024-07-12 18:42:17 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:42:17 - INFO - Translation completed
+2024-07-12 18:42:17 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/datastore/ha.md
+2024-07-12 18:42:17 - INFO - Comparing Markdown elements:
+2024-07-12 18:42:17 - INFO - All elements match.
+-----
+2024-07-12 18:42:17 - INFO - Translating: datastore/backup-restore.md (new file)
+2024-07-12 18:42:17 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/datastore/backup-restore.md
+2024-07-12 18:42:17 - INFO - Translating chunk 1/1...
+2024-07-12 18:42:17 - INFO - Translation started: ---
+title: Backup and Restore
+---
+
+The way K3s is ...
+2024-07-12 18:42:29 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:42:29 - INFO - Translation completed
+2024-07-12 18:42:29 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/datastore/backup-restore.md
+2024-07-12 18:42:29 - INFO - Comparing Markdown elements:
+2024-07-12 18:42:29 - INFO - All elements match.
+-----
+2024-07-12 18:42:29 - INFO - Translating: datastore/ha-embedded.md (new file)
+2024-07-12 18:42:29 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/datastore/ha-embedded.md
+2024-07-12 18:42:29 - INFO - Translating chunk 1/1...
+2024-07-12 18:42:29 - INFO - Translation started: ---
+title: "High Availability Embedded etcd"
+---
+
+...
+2024-07-12 18:42:46 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:42:46 - INFO - Translation completed
+2024-07-12 18:42:46 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/datastore/ha-embedded.md
+2024-07-12 18:42:46 - INFO - Comparing Markdown elements:
+2024-07-12 18:42:46 - INFO - All elements match.
+-----
+2024-07-12 18:42:46 - INFO - Translating: datastore/cluster-loadbalancer.md (new file)
+2024-07-12 18:42:46 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/datastore/cluster-loadbalancer.md
+2024-07-12 18:42:46 - INFO - Translating chunk 1/1...
+2024-07-12 18:42:46 - INFO - Translation started: ---
+title: Cluster Load Balancer
+---
+
+
+This sectio...
+2024-07-12 18:43:20 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:43:20 - INFO - Translation completed
+2024-07-12 18:43:20 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/datastore/cluster-loadbalancer.md
+2024-07-12 18:43:20 - INFO - Comparing Markdown elements:
+2024-07-12 18:43:20 - INFO - All elements match.
+-----
+2024-07-12 18:43:20 - INFO - Translating: release-notes/v1.24.X.md (new file)
+2024-07-12 18:43:20 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.24.X.md
+2024-07-12 18:43:20 - INFO - Translating chunk 1/7...
+2024-07-12 18:43:20 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 18:44:21 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:44:21 - INFO - Translation completed
+2024-07-12 18:44:21 - INFO - Translating chunk 2/7...
+2024-07-12 18:44:21 - INFO - Translation started: | [v1.24.9+k3s1](v1.24.X.md#release-v1249k3s1) | D...
+2024-07-12 18:45:25 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:45:25 - INFO - Translation completed
+2024-07-12 18:45:25 - INFO - Translating chunk 3/7...
+2024-07-12 18:45:25 - INFO - Translation started:   * User-provided containerd config templates may ...
+2024-07-12 18:46:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:46:37 - INFO - Translation completed
+2024-07-12 18:46:37 - INFO - Translating chunk 4/7...
+2024-07-12 18:46:38 - INFO - Translation started:   * The bundled runc version has been bumped to v1...
+2024-07-12 18:47:55 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:47:55 - INFO - Translation completed
+2024-07-12 18:47:55 - INFO - Translating chunk 5/7...
+2024-07-12 18:47:55 - INFO - Translation started: * Remove stuff which belongs in the windows execut...
+2024-07-12 18:48:57 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:48:57 - INFO - Translation completed
+2024-07-12 18:48:57 - INFO - Translating chunk 6/7...
+2024-07-12 18:48:57 - INFO - Translation started: * Bumped rootlesskit to v1.0.1 [(#5773)](https://g...
+2024-07-12 18:50:09 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:50:09 - INFO - Translation completed
+2024-07-12 18:50:09 - INFO - Translating chunk 7/7...
+2024-07-12 18:50:09 - INFO - Translation started: * Remove errant unversioned etcd go.mod entry [(#5...
+2024-07-12 18:50:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:50:15 - INFO - Translation completed
+2024-07-12 18:50:15 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.24.X.md
+2024-07-12 18:50:15 - INFO - Comparing Markdown elements:
+2024-07-12 18:50:15 - WARNING - Emphasis: Mismatch (Source: 60, Translated: 58)
+2024-07-12 18:50:15 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:50:15 - INFO - Translating: release-notes/v1.27.X.md (new file)
+2024-07-12 18:50:15 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.27.X.md
+2024-07-12 18:50:15 - INFO - Translating chunk 1/6...
+2024-07-12 18:50:15 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 18:51:18 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:51:18 - INFO - Translation completed
+2024-07-12 18:51:18 - INFO - Translating chunk 2/6...
+2024-07-12 18:51:18 - INFO - Translation started: | [v1.27.7+k3s1](v1.27.X.md#release-v1277k3s1) | O...
+2024-07-12 18:52:19 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:52:19 - INFO - Translation completed
+2024-07-12 18:52:19 - INFO - Translating chunk 3/6...
+2024-07-12 18:52:19 - INFO - Translation started: For more details on what's new, see the [Kubernete...
+2024-07-12 18:53:24 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:53:24 - INFO - Translation completed
+2024-07-12 18:53:24 - INFO - Translating chunk 4/6...
+2024-07-12 18:53:24 - INFO - Translation started:   * Added runtime classes for wasm/nvidia/crun
+  *...
+2024-07-12 18:54:52 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:54:52 - INFO - Translation completed
+2024-07-12 18:54:52 - INFO - Translating chunk 5/6...
+2024-07-12 18:54:52 - INFO - Translation started: * Add FilterCN function to prevent SAN Stuffing [(...
+2024-07-12 18:55:55 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:55:55 - INFO - Translation completed
+2024-07-12 18:55:55 - INFO - Translating chunk 6/6...
+2024-07-12 18:55:55 - INFO - Translation started:   * Integration of tailscale VPN into k3s
+* Add pr...
+2024-07-12 18:56:52 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:56:53 - INFO - Translation completed
+2024-07-12 18:56:53 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.27.X.md
+2024-07-12 18:56:53 - INFO - Comparing Markdown elements:
+2024-07-12 18:56:53 - WARNING - Horizontal rules: Mismatch (Source: 17, Translated: 16)
+2024-07-12 18:56:53 - WARNING - H2: Mismatch (Source: 16, Translated: 15)
+2024-07-12 18:56:53 - WARNING - Hyperlinks: Mismatch (Source: 495, Translated: 489)
+2024-07-12 18:56:53 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 18:56:53 - INFO - Translating: release-notes/v1.29.X.md (new file)
+2024-07-12 18:56:53 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.29.X.md
+2024-07-12 18:56:53 - INFO - Translating chunk 1/4...
+2024-07-12 18:56:53 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 18:58:02 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:58:02 - INFO - Translation completed
+2024-07-12 18:58:02 - INFO - Translating chunk 2/4...
+2024-07-12 18:58:02 - INFO - Translation started: * Expand GHA go caching to include newest release ...
+2024-07-12 18:59:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 18:59:16 - INFO - Translation completed
+2024-07-12 18:59:16 - INFO - Translating chunk 3/4...
+2024-07-12 18:59:16 - INFO - Translation started: * Warn and suppress duplicate registry mirror endp...
+2024-07-12 19:00:20 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:00:21 - INFO - Translation completed
+2024-07-12 19:00:21 - INFO - Translating chunk 4/4...
+2024-07-12 19:00:21 - INFO - Translation started: This release removes the experimental `rotate-keys...
+2024-07-12 19:00:47 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:00:47 - INFO - Translation completed
+2024-07-12 19:00:47 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.29.X.md
+2024-07-12 19:00:47 - INFO - Comparing Markdown elements:
+2024-07-12 19:00:47 - WARNING - Notice: Mismatch (Source: 6, Translated: 5)
+2024-07-12 19:00:47 - WARNING - Hyperlinks: Mismatch (Source: 283, Translated: 277)
+2024-07-12 19:00:47 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 23)
+2024-07-12 19:00:47 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 19:00:47 - INFO - Translating: release-notes/v1.26.X.md (new file)
+2024-07-12 19:00:47 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.26.X.md
+2024-07-12 19:00:47 - INFO - Translating chunk 1/7...
+2024-07-12 19:00:47 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 19:01:45 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:01:45 - INFO - Translation completed
+2024-07-12 19:01:45 - INFO - Translating chunk 2/7...
+2024-07-12 19:01:45 - INFO - Translation started: | [v1.26.7+k3s1](v1.26.X.md#release-v1267k3s1) | J...
+2024-07-12 19:02:46 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:02:46 - INFO - Translation completed
+2024-07-12 19:02:46 - INFO - Translating chunk 3/7...
+2024-07-12 19:02:46 - INFO - Translation started:   * Rootless mode should also bind service nodePor...
+2024-07-12 19:04:10 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:04:10 - INFO - Translation completed
+2024-07-12 19:04:10 - INFO - Translating chunk 4/7...
+2024-07-12 19:04:10 - INFO - Translation started: * System agent push tags fix [(#8570)](https://git...
+2024-07-12 19:05:08 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:05:08 - INFO - Translation completed
+2024-07-12 19:05:08 - INFO - Translating chunk 5/7...
+2024-07-12 19:05:08 - INFO - Translation started:   * Bumped klipper-lb image to v0.4.4 to resolve a...
+2024-07-12 19:06:16 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:06:16 - INFO - Translation completed
+2024-07-12 19:06:16 - INFO - Translating chunk 6/7...
+2024-07-12 19:06:16 - INFO - Translation started: * Add flannel adr [(#6973)](https://github.com/k3s...
+2024-07-12 19:07:25 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:07:25 - INFO - Translation completed
+2024-07-12 19:07:25 - INFO - Translating chunk 7/7...
+2024-07-12 19:07:25 - INFO - Translation started: * Current status badges [(#6653)](https://github.c...
+2024-07-12 19:07:41 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:07:41 - INFO - Translation completed
+2024-07-12 19:07:41 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.26.X.md
+2024-07-12 19:07:41 - INFO - Comparing Markdown elements:
+2024-07-12 19:07:41 - WARNING - H3: Mismatch (Source: 18, Translated: 17)
+2024-07-12 19:07:41 - WARNING - Hyperlinks: Mismatch (Source: 521, Translated: 518)
+2024-07-12 19:07:41 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 19:07:41 - INFO - Translating: release-notes/v1.28.X.md (new file)
+2024-07-12 19:07:41 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.28.X.md
+2024-07-12 19:07:41 - INFO - Translating chunk 1/4...
+2024-07-12 19:07:41 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 19:08:46 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:08:46 - INFO - Translation completed
+2024-07-12 19:08:46 - INFO - Translating chunk 2/4...
+2024-07-12 19:08:46 - INFO - Translation started: | [v1.28.2+k3s1](v1.28.X.md#release-v1282k3s1) | S...
+2024-07-12 19:09:43 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:09:44 - INFO - Translation completed
+2024-07-12 19:09:44 - INFO - Translating chunk 3/4...
+2024-07-12 19:09:44 - INFO - Translation started:   * Fix snapshot prune
+  * Fix issue with etcd nod...
+2024-07-12 19:10:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:10:37 - INFO - Translation completed
+2024-07-12 19:10:37 - INFO - Translating chunk 4/4...
+2024-07-12 19:10:37 - INFO - Translation started: ## Release [v1.28.3+k3s2](https://github.com/k3s-i...
+2024-07-12 19:11:36 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:11:36 - INFO - Translation completed
+2024-07-12 19:11:36 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.28.X.md
+2024-07-12 19:11:36 - INFO - Comparing Markdown elements:
+2024-07-12 19:11:36 - WARNING - Horizontal rules: Mismatch (Source: 13, Translated: 12)
+2024-07-12 19:11:36 - WARNING - Hyperlinks: Mismatch (Source: 348, Translated: 340)
+2024-07-12 19:11:36 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 19:11:36 - INFO - Translating: release-notes/v1.25.X.md (new file)
+2024-07-12 19:11:36 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.25.X.md
+2024-07-12 19:11:36 - INFO - Translating chunk 1/7...
+2024-07-12 19:11:36 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 19:12:54 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:12:55 - INFO - Translation completed
+2024-07-12 19:12:55 - INFO - Translating chunk 2/7...
+2024-07-12 19:12:55 - INFO - Translation started: | [v1.25.7+k3s1](v1.25.X.md#release-v1257k3s1) | M...
+2024-07-12 19:13:49 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:13:49 - INFO - Translation completed
+2024-07-12 19:13:49 - INFO - Translating chunk 3/7...
+2024-07-12 19:13:49 - INFO - Translation started: For more details on what's new, see the [Kubernete...
+2024-07-12 19:14:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:14:38 - INFO - Translation completed
+2024-07-12 19:14:38 - INFO - Translating chunk 4/7...
+2024-07-12 19:14:38 - INFO - Translation started: * Don't use zgrep in `check-config` if apparmor pr...
+2024-07-12 19:15:33 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:15:33 - INFO - Translation completed
+2024-07-12 19:15:33 - INFO - Translating chunk 5/7...
+2024-07-12 19:15:33 - INFO - Translation started: * Enable dependabot [(#7045)](https://github.com/k...
+2024-07-12 19:16:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:16:37 - INFO - Translation completed
+2024-07-12 19:16:37 - INFO - Translating chunk 6/7...
+2024-07-12 19:16:37 - INFO - Translation started:   * The embedded cloud-controller-manager's metric...
+2024-07-12 19:17:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:17:37 - INFO - Translation completed
+2024-07-12 19:17:37 - INFO - Translating chunk 7/7...
+2024-07-12 19:17:37 - INFO - Translation started: ## Release [v1.25.0+k3s1](https://github.com/k3s-i...
+2024-07-12 19:17:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:17:56 - INFO - Translation completed
+2024-07-12 19:17:56 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.25.X.md
+2024-07-12 19:17:56 - INFO - Comparing Markdown elements:
+2024-07-12 19:17:56 - WARNING - Horizontal rules: Mismatch (Source: 19, Translated: 17)
+2024-07-12 19:17:56 - WARNING - H2: Mismatch (Source: 18, Translated: 17)
+2024-07-12 19:17:56 - WARNING - Hyperlinks: Mismatch (Source: 522, Translated: 512)
+2024-07-12 19:17:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 19:17:56 - INFO - Translating: release-notes/v1.30.X.md (new file)
+2024-07-12 19:17:56 - INFO - File translation started: /home/t-yano/src/k3s-docs_ja/docs/release-notes/v1.30.X.md
+2024-07-12 19:17:56 - INFO - Translating chunk 1/2...
+2024-07-12 19:17:56 - INFO - Translation started: ---
+hide_table_of_contents: true
+sidebar_position:...
+2024-07-12 19:19:03 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:19:03 - INFO - Translation completed
+2024-07-12 19:19:03 - INFO - Translating chunk 2/2...
+2024-07-12 19:19:03 - INFO - Translation started: For more details on what's new, see the [Kubernete...
+2024-07-12 19:19:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 19:19:15 - INFO - Translation completed
+2024-07-12 19:19:15 - INFO - Translation completed. Output: /home/t-yano/src/k3s-docs_ja/i18n/ja/docusaurus-plugin-content-docs/current/release-notes/v1.30.X.md
+2024-07-12 19:19:15 - INFO - Comparing Markdown elements:
+2024-07-12 19:19:15 - WARNING - Hyperlinks: Mismatch (Source: 105, Translated: 104)
+2024-07-12 19:19:15 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 19:19:15 - INFO - ----Translation of all files completed----
