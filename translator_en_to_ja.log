@@ -1288,3 +1288,807 @@ sidebar_position:...
 2024-07-12 19:19:15 - WARNING - ### Some elements do not match. Verification needed. ###
 -----
 2024-07-12 19:19:15 - INFO - ----Translation of all files completed----
+2024-07-18 14:57:49 - INFO - Translation process started
+2024-07-18 14:57:49 - INFO - Skipping: faq.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: advanced.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - WARNING - Emphasis: Mismatch (Source: 88, Translated: 87)
+2024-07-18 14:57:49 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:49 - INFO - Skipping: known-issues.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: helm.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: introduction.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: related-projects.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: cluster-access.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: storage.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: architecture.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: quick-start.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: upgrades/manual.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: upgrades/upgrades.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: upgrades/automated.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: upgrades/killall.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: reference/env-variables.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: reference/flag-deprecation.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: reference/resource-profiling.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: networking/distributed-multicloud.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: networking/networking-services.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: networking/multus-ipams.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: networking/networking.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: networking/basic-network-options.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/server-roles.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/requirements.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/installation.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/uninstall.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/registry-mirror.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 28)
+2024-07-18 14:57:49 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/configuration.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/packaged-components.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - INFO - All elements match.
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/private-registry.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - WARNING - Emphasis: Mismatch (Source: 48, Translated: 49)
+2024-07-18 14:57:49 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:49 - INFO - Skipping: installation/airgap.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - WARNING - Emphasis: Mismatch (Source: 16, Translated: 15)
+2024-07-18 14:57:49 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:49 - INFO - Skipping: security/self-assessment-1.23.md (no changes)
+2024-07-18 14:57:49 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:49 - WARNING - Code blocks: Mismatch (Source: 372, Translated: 450)
+2024-07-18 14:57:49 - WARNING - Horizontal rules: Mismatch (Source: 1, Translated: 2)
+2024-07-18 14:57:49 - WARNING - H1: Mismatch (Source: 27, Translated: 25)
+2024-07-18 14:57:49 - WARNING - H2: Mismatch (Source: 16, Translated: 17)
+2024-07-18 14:57:49 - WARNING - H3: Mismatch (Source: 125, Translated: 132)
+2024-07-18 14:57:49 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 123)
+2024-07-18 14:57:49 - WARNING - Bold: Mismatch (Source: 432, Translated: 461)
+2024-07-18 14:57:49 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: security/self-assessment-1.24.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Code blocks: Mismatch (Source: 220, Translated: 222)
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 22, Translated: 23)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: security/hardening-guide.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Code blocks: Mismatch (Source: 42, Translated: 44)
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 65)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: security/self-assessment-1.8.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Code blocks: Mismatch (Source: 228, Translated: 229)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: security/self-assessment-1.7.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Code blocks: Mismatch (Source: 200, Translated: 202)
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 36)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: security/secrets-encryption.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: security/security.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/cli.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/certificate.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 50, Translated: 49)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/token.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/secrets-encrypt.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/agent.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Code blocks: Mismatch (Source: 4, Translated: 6)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/etcd-snapshot.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 40, Translated: 46)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: cli/server.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Code blocks: Mismatch (Source: 2, Translated: 4)
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 120, Translated: 123)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: datastore/datastore.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: datastore/ha.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: datastore/backup-restore.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: datastore/ha-embedded.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: datastore/cluster-loadbalancer.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.24.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 60, Translated: 58)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.27.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Horizontal rules: Mismatch (Source: 17, Translated: 16)
+2024-07-18 14:57:50 - WARNING - H2: Mismatch (Source: 16, Translated: 15)
+2024-07-18 14:57:50 - WARNING - Hyperlinks: Mismatch (Source: 495, Translated: 489)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.29.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Notice: Mismatch (Source: 6, Translated: 5)
+2024-07-18 14:57:50 - WARNING - Hyperlinks: Mismatch (Source: 283, Translated: 277)
+2024-07-18 14:57:50 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 23)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.26.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - H3: Mismatch (Source: 18, Translated: 17)
+2024-07-18 14:57:50 - WARNING - Hyperlinks: Mismatch (Source: 521, Translated: 518)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.28.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Horizontal rules: Mismatch (Source: 13, Translated: 12)
+2024-07-18 14:57:50 - WARNING - Hyperlinks: Mismatch (Source: 348, Translated: 340)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.25.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - WARNING - Horizontal rules: Mismatch (Source: 19, Translated: 17)
+2024-07-18 14:57:50 - WARNING - H2: Mismatch (Source: 18, Translated: 17)
+2024-07-18 14:57:50 - WARNING - Hyperlinks: Mismatch (Source: 522, Translated: 512)
+2024-07-18 14:57:50 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 14:57:50 - INFO - Skipping: release-notes/v1.30.X.md (no changes)
+2024-07-18 14:57:50 - INFO - Comparing Markdown elements:
+2024-07-18 14:57:50 - INFO - All elements match.
+-----
+2024-07-18 14:57:50 - INFO - ----Translation of all files completed----
+2024-07-18 15:02:46 - INFO - Translation process started
+2024-07-18 15:02:46 - INFO - Skipping: faq.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: advanced.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 88, Translated: 87)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: known-issues.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: helm.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: introduction.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: related-projects.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cluster-access.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: storage.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: architecture.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: quick-start.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: upgrades/manual.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: upgrades/upgrades.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: upgrades/automated.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: upgrades/killall.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: reference/env-variables.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: reference/flag-deprecation.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: reference/resource-profiling.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: networking/distributed-multicloud.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: networking/networking-services.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: networking/multus-ipams.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: networking/networking.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: networking/basic-network-options.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/server-roles.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/requirements.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/installation.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/uninstall.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/registry-mirror.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 28)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/configuration.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/packaged-components.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/private-registry.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 48, Translated: 49)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: installation/airgap.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 16, Translated: 15)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/self-assessment-1.23.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 372, Translated: 450)
+2024-07-18 15:02:46 - WARNING - Horizontal rules: Mismatch (Source: 1, Translated: 2)
+2024-07-18 15:02:46 - WARNING - H1: Mismatch (Source: 27, Translated: 25)
+2024-07-18 15:02:46 - WARNING - H2: Mismatch (Source: 16, Translated: 17)
+2024-07-18 15:02:46 - WARNING - H3: Mismatch (Source: 125, Translated: 132)
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 123)
+2024-07-18 15:02:46 - WARNING - Bold: Mismatch (Source: 432, Translated: 461)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/self-assessment-1.24.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 220, Translated: 222)
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 22, Translated: 23)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/hardening-guide.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 42, Translated: 44)
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 65)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/self-assessment-1.8.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 228, Translated: 229)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/self-assessment-1.7.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 200, Translated: 202)
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 36)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/secrets-encryption.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: security/security.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/cli.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/certificate.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 50, Translated: 49)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/token.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/secrets-encrypt.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/agent.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 4, Translated: 6)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/etcd-snapshot.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 40, Translated: 46)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: cli/server.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Code blocks: Mismatch (Source: 2, Translated: 4)
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 120, Translated: 123)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: datastore/datastore.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: datastore/ha.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: datastore/backup-restore.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: datastore/ha-embedded.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: datastore/cluster-loadbalancer.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.24.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 60, Translated: 58)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.27.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Horizontal rules: Mismatch (Source: 17, Translated: 16)
+2024-07-18 15:02:46 - WARNING - H2: Mismatch (Source: 16, Translated: 15)
+2024-07-18 15:02:46 - WARNING - Hyperlinks: Mismatch (Source: 495, Translated: 489)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.29.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Notice: Mismatch (Source: 6, Translated: 5)
+2024-07-18 15:02:46 - WARNING - Hyperlinks: Mismatch (Source: 283, Translated: 277)
+2024-07-18 15:02:46 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 23)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.26.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - H3: Mismatch (Source: 18, Translated: 17)
+2024-07-18 15:02:46 - WARNING - Hyperlinks: Mismatch (Source: 521, Translated: 518)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.28.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Horizontal rules: Mismatch (Source: 13, Translated: 12)
+2024-07-18 15:02:46 - WARNING - Hyperlinks: Mismatch (Source: 348, Translated: 340)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.25.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - WARNING - Horizontal rules: Mismatch (Source: 19, Translated: 17)
+2024-07-18 15:02:46 - WARNING - H2: Mismatch (Source: 18, Translated: 17)
+2024-07-18 15:02:46 - WARNING - Hyperlinks: Mismatch (Source: 522, Translated: 512)
+2024-07-18 15:02:46 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:02:46 - INFO - Skipping: release-notes/v1.30.X.md (no changes)
+2024-07-18 15:02:46 - INFO - Comparing Markdown elements:
+2024-07-18 15:02:46 - INFO - All elements match.
+-----
+2024-07-18 15:02:46 - INFO - ----Translation of all files completed----
+2024-07-18 15:06:08 - INFO - Translation process started
+2024-07-18 15:06:08 - INFO - Skipping: faq.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: advanced.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 88, Translated: 87)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: known-issues.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: helm.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: introduction.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: related-projects.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cluster-access.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: storage.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: architecture.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: quick-start.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: upgrades/manual.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: upgrades/upgrades.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: upgrades/automated.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: upgrades/killall.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: reference/env-variables.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: reference/flag-deprecation.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: reference/resource-profiling.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: networking/distributed-multicloud.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: networking/networking-services.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: networking/multus-ipams.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: networking/networking.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: networking/basic-network-options.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/server-roles.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/requirements.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/installation.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/uninstall.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/registry-mirror.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 28)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/configuration.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/packaged-components.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/private-registry.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 48, Translated: 49)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: installation/airgap.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 16, Translated: 15)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/self-assessment-1.23.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 372, Translated: 450)
+2024-07-18 15:06:08 - WARNING - Horizontal rules: Mismatch (Source: 1, Translated: 2)
+2024-07-18 15:06:08 - WARNING - H1: Mismatch (Source: 27, Translated: 25)
+2024-07-18 15:06:08 - WARNING - H2: Mismatch (Source: 16, Translated: 17)
+2024-07-18 15:06:08 - WARNING - H3: Mismatch (Source: 125, Translated: 132)
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 123)
+2024-07-18 15:06:08 - WARNING - Bold: Mismatch (Source: 432, Translated: 461)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/self-assessment-1.24.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 220, Translated: 222)
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 22, Translated: 23)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/hardening-guide.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 42, Translated: 44)
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 71, Translated: 65)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/self-assessment-1.8.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 228, Translated: 229)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/self-assessment-1.7.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 200, Translated: 202)
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 36)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/secrets-encryption.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: security/security.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/cli.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/certificate.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 50, Translated: 49)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/token.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/secrets-encrypt.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/agent.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 4, Translated: 6)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/etcd-snapshot.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 40, Translated: 46)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: cli/server.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Code blocks: Mismatch (Source: 2, Translated: 4)
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 120, Translated: 123)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: datastore/datastore.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: datastore/ha.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: datastore/backup-restore.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: datastore/ha-embedded.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: datastore/cluster-loadbalancer.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.24.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 60, Translated: 58)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.27.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Horizontal rules: Mismatch (Source: 17, Translated: 16)
+2024-07-18 15:06:08 - WARNING - H2: Mismatch (Source: 16, Translated: 15)
+2024-07-18 15:06:08 - WARNING - Hyperlinks: Mismatch (Source: 495, Translated: 489)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.29.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Notice: Mismatch (Source: 6, Translated: 5)
+2024-07-18 15:06:08 - WARNING - Hyperlinks: Mismatch (Source: 283, Translated: 277)
+2024-07-18 15:06:08 - WARNING - Emphasis: Mismatch (Source: 24, Translated: 23)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.26.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - H3: Mismatch (Source: 18, Translated: 17)
+2024-07-18 15:06:08 - WARNING - Hyperlinks: Mismatch (Source: 521, Translated: 518)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.28.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Horizontal rules: Mismatch (Source: 13, Translated: 12)
+2024-07-18 15:06:08 - WARNING - Hyperlinks: Mismatch (Source: 348, Translated: 340)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.25.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - WARNING - Horizontal rules: Mismatch (Source: 19, Translated: 17)
+2024-07-18 15:06:08 - WARNING - H2: Mismatch (Source: 18, Translated: 17)
+2024-07-18 15:06:08 - WARNING - Hyperlinks: Mismatch (Source: 522, Translated: 512)
+2024-07-18 15:06:08 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-18 15:06:08 - INFO - Skipping: release-notes/v1.30.X.md (no changes)
+2024-07-18 15:06:08 - INFO - Comparing Markdown elements:
+2024-07-18 15:06:08 - INFO - All elements match.
+-----
+2024-07-18 15:06:08 - INFO - ----Translation of all files completed----
