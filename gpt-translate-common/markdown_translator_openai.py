@@ -172,7 +172,10 @@ if __name__ == "__main__":
                         'Notice': content.count(':::'),
                         'Hyperlinks': content.count(']('),
                         'Emphasis': len(re.findall(r'(?<!`)`[^`\n]+?`(?!`)', content, re.UNICODE)),
-                        'Bold': len(re.findall(r'\*\*[^*\n]+?\*\*', content, re.UNICODE))
+                        'Bold': len(re.findall(r'\*\*[^*\n]+?\*\*', content, re.UNICODE)),
+                        'HTML Special Characters': len(re.findall(r'&[a-zA-Z]+;', content)),
+                        '&lt;': content.count('&lt;'),
+                        '&gt;': content.count('&gt;')
                     }
                 
                 source_counts = count_markdown_elements(source_path)
